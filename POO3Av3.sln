@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interator", "Interator\Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{F94080E1-BFC9-42A2-B696-602BA7E09F80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbatractFactory", "AbatractFactory\AbatractFactory.csproj", "{EE24BD45-72FC-479D-85B7-75EADF439A93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F94080E1-BFC9-42A2-B696-602BA7E09F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F94080E1-BFC9-42A2-B696-602BA7E09F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F94080E1-BFC9-42A2-B696-602BA7E09F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE24BD45-72FC-479D-85B7-75EADF439A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE24BD45-72FC-479D-85B7-75EADF439A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE24BD45-72FC-479D-85B7-75EADF439A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE24BD45-72FC-479D-85B7-75EADF439A93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

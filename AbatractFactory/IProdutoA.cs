@@ -1,0 +1,6 @@
+namespace AbatractFactory
+{
+    interface IProdutoA
+    {
+    }
+}
