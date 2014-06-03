@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interator", "Interator\Interator.csproj", "{702C08FB-561E-441C-85FC-B164EED002BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{F94080E1-BFC9-42A2-B696-602BA7E09F80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{702C08FB-561E-441C-85FC-B164EED002BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{702C08FB-561E-441C-85FC-B164EED002BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{702C08FB-561E-441C-85FC-B164EED002BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94080E1-BFC9-42A2-B696-602BA7E09F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94080E1-BFC9-42A2-B696-602BA7E09F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94080E1-BFC9-42A2-B696-602BA7E09F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94080E1-BFC9-42A2-B696-602BA7E09F80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
